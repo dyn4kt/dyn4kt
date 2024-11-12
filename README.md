@@ -1,20 +1,10 @@
-![alt tag](https://github.com/dyn4j/dyn4j/blob/master/dyn4j.png)
+## Kotlin Collision Detection and Physics Engine
 
-![Actions Status](https://github.com/dyn4j/dyn4j/workflows/Maven%20CI/badge.svg)
-![License](https://img.shields.io/github/license/dyn4j/dyn4j)
-![Language](https://img.shields.io/github/languages/top/dyn4j/dyn4j)
-![Java](https://img.shields.io/badge/java-6+-orange)
-![Maven Central](https://img.shields.io/maven-central/v/org.dyn4j/dyn4j)
-[![javadoc](https://javadoc.io/badge2/org.dyn4j/dyn4j/javadoc.svg?kill_cache=1)](https://javadoc.io/doc/org.dyn4j/dyn4j)
-![Code Coverage](https://img.shields.io/badge/coverage-96.7%25-brightgreen)
+Coming soon, a 100% Kotlin 2D collision detection and physics engine.  Designed to be fast, stable, extensible, and easy to use.  dyn4kt is free for use in commercial and non-commercial applications.
 
-## Java Collision Detection and Physics Engine
+Forked from [dyn4j](https://github.com/dyn4j/dyn4j) to provide a 100% Kotlin implementation, ideal for Kotlin Multiplatform environments.
 
-A 100% Java 2D collision detection and physics engine.  Designed to be fast, stable, extensible, and easy to use.  dyn4j is free for use in commercial and non-commercial applications.
-
-The project is comprised of the main project and tests managed here and a samples project:
-- [dyn4j-samples](https://github.com/dyn4j/dyn4j-samples) A collection of samples to help get started
-
+<!--
 ### Requirements
 * Java 1.6+
 
@@ -117,3 +107,5 @@ From here you should take a look at the [dyn4j-samples](https://github.com/dyn4j
 * Check artifact class version: 
     * javap -verbose -classpath /path/to/jar/dyn4j.jar org.dyn4j.Version 50
     * javap -verbose -classpath /path/to/jar/dyn4j.jar module-info 53+
+
+-->
