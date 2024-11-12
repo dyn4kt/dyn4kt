@@ -1,3 +1,4 @@
+Copyright (c) 2024, Andrew Manley
 Copyright (c) 2010-2024, William Bittle
 All rights reserved.
 
